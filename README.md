@@ -39,6 +39,7 @@ Currently a Master's Student in Computer Science at Politecnico di Milano.
 ## How to reach me
 
 fidelguri4@gmail.com - personal email
+
 https://www.linkedin.com/in/fidel-guri - linkedin profile
 ---
 
