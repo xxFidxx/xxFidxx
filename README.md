@@ -1,14 +1,7 @@
 # Hi, I'm xxFidxx 👋
 
-Welcome to my GitHub profile! I'm a developer who enjoys building practical software, learning new technologies, and contributing to projects across languages and stacks.
-
----
-
-## About me
-
-- 🔭 I’m currently building and maintaining small-to-medium projects across Java, C, and web technologies.  
-- 🌱 I’m learning modern JavaScript tooling, TypeScript, and cloud deployment patterns.  
-- 👯 I’m open to collaborating on web apps, systems programming, and developer tooling.
+Bachelor's Degree in Computer Science and Engineering at Politecnico di Milano.
+Currently a Master's Student in Computer Science at Politecnico di Milano.
 
 ---
 
