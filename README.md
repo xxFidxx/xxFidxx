@@ -8,14 +8,14 @@ Currently a Master's Student in Computer Science at Politecnico di Milano.
 
 ## Projects
 
-- AUCTION-WEBSITE-PURE-HTML — https://github.com/xxFidxx/AUCTION-WEBSITE-PURE-HTML  
+- AUCTION-PURE-HTML — https://github.com/xxFidxx/AUCTION-WEBSITE-PURE-HTML  
   A Jakarta EE/Thymeleaf online auction platform with user authentication, image uploads, bidding flows, and a MariaDB backend.
 
-- BAKERY-WAREHOUSE-HANDLER-IN-C — https://github.com/xxFidxx/BAKERY-WAREHOUSE-HANDLER-IN-C  
-  A C (C11) command-line program for bakery inventory and warehouse management, implemented as a coursework project focusing on algorithms and efficiency.
-
-- RIA-WEBSITE — https://github.com/xxFidxx/RIA-WEBSITE  
+- AUCTION RIA WEBSITE — https://github.com/xxFidxx/RIA-WEBSITE  
   A Rich Internet Application for online auctions combining a Java/Jakarta Servlets backend with a vanilla JavaScript frontend, seller/buyer dashboards, and image support.
+
+- HIGH PERFORMANCE WAREHOUSE HANDLER — https://github.com/xxFidxx/BAKERY-WAREHOUSE-HANDLER-IN-C  
+  A C command-line program for bakery inventory and warehouse management, implemented as a coursework project focusing on algorithms and efficiency.
 
 - nsds-akka (MatteoEnut/nsds-akka) — https://github.com/MatteoEnut/nsds-akka  
   An Akka-based Java project exploring actor-model patterns and distributed system concepts
