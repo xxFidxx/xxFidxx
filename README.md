@@ -18,7 +18,7 @@ Currently a Master's Student in Computer Science at Politecnico di Milano.
   A Rich Internet Application for online auctions combining a Java/Jakarta Servlets backend with a vanilla JavaScript frontend, seller/buyer dashboards, and image support.
 
 - nsds-akka (MatteoEnut/nsds-akka) — https://github.com/MatteoEnut/nsds-akka  
-  An Akka-based Java project exploring actor-model patterns and distributed system concepts (included here as a reference/fork).
+  An Akka-based Java project exploring actor-model patterns and distributed system concepts
 
 ---
 
