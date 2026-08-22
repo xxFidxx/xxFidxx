@@ -38,9 +38,7 @@ Currently a Master's Student in Computer Science at Politecnico di Milano.
 
 ## How to reach me
 
-- Twitter / X: @xxFidxx  
-- Email / LinkedIn / Website: (add your preferred contact details)
-
+fidelguri4@gmail.com - personal email
+https://www.linkedin.com/in/fidel-guri - linkedin profile
 ---
 
-Thanks for visiting — feel free to explore my repos and open an issue or PR if you want to collaborate!
