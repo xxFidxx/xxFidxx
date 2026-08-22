@@ -23,7 +23,7 @@ Currently a Master's Student in Computer Science at Politecnico di Milano.
 - **DrWhite** — https://github.com/xxFidxx/DrWhite  
   A JavaScript project centered on frontend and application logic development.
 
-- **Iot-Distributedsystem project** — https://github.com/xxFidxx/SentinelGrid  
+- **IOT-DISTRIBUTED SYSTEM** — https://github.com/xxFidxx/SentinelGrid  
   An industrial IoT and distributed systems platform built with Contiki-NG, Kafka, Spark, Akka, and MPI. It includes an edge sensor network with actuator locking, a streaming ingestion pipeline, Spark-based analytics, a replicated device registry, and parallel anomaly detection.
 
 ---
