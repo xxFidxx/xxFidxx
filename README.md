@@ -17,16 +17,13 @@ Currently a Master's Student in Computer Science at Politecnico di Milano.
 - **HIGH PERFORMANCE WAREHOUSE HANDLER** — https://github.com/xxFidxx/BAKERY-WAREHOUSE-HANDLER-IN-C  
   A C command-line program for bakery inventory and warehouse management, implemented as a coursework project focusing on algorithms and efficiency.
 
-- **nsds-akka** — https://github.com/MatteoEnut/nsds-akka  
-  An Akka-based Java project exploring actor-model patterns and distributed system concepts.
-
 - **FPGA-PROJECT** — https://github.com/xxFidxx/FPGA-PROJECT  
   A VHDL-based FPGA project focused on digital logic and hardware design.
 
 - **DrWhite** — https://github.com/xxFidxx/DrWhite  
   A JavaScript project centered on frontend and application logic development.
 
-- **SentinelGrid** — https://github.com/xxFidxx/SentinelGrid  
+- **Iot-Distributedsystem project** — https://github.com/xxFidxx/SentinelGrid  
   An industrial IoT and distributed systems platform built with Contiki-NG, Kafka, Spark, Akka, and MPI. It includes an edge sensor network with actuator locking, a streaming ingestion pipeline, Spark-based analytics, a replicated device registry, and parallel anomaly detection.
 
 ---
