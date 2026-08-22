@@ -8,25 +8,34 @@ Currently a Master's Student in Computer Science at Politecnico di Milano.
 
 ## Projects
 
-- AUCTION-PURE-HTML — https://github.com/xxFidxx/AUCTION-WEBSITE-PURE-HTML  
+- **AUCTION-PURE-HTML** — https://github.com/xxFidxx/AUCTION-WEBSITE-PURE-HTML  
   A Jakarta EE/Thymeleaf online auction platform with user authentication, image uploads, bidding flows, and a MariaDB backend.
 
-- AUCTION RIA WEBSITE — https://github.com/xxFidxx/RIA-WEBSITE  
+- **AUCTION RIA WEBSITE** — https://github.com/xxFidxx/RIA-WEBSITE  
   A Rich Internet Application for online auctions combining a Java/Jakarta Servlets backend with a vanilla JavaScript frontend, seller/buyer dashboards, and image support.
 
-- HIGH PERFORMANCE WAREHOUSE HANDLER — https://github.com/xxFidxx/BAKERY-WAREHOUSE-HANDLER-IN-C  
+- **HIGH PERFORMANCE WAREHOUSE HANDLER** — https://github.com/xxFidxx/BAKERY-WAREHOUSE-HANDLER-IN-C  
   A C command-line program for bakery inventory and warehouse management, implemented as a coursework project focusing on algorithms and efficiency.
 
-- nsds-akka (MatteoEnut/nsds-akka) — https://github.com/MatteoEnut/nsds-akka  
-  An Akka-based Java project exploring actor-model patterns and distributed system concepts
+- **nsds-akka** — https://github.com/MatteoEnut/nsds-akka  
+  An Akka-based Java project exploring actor-model patterns and distributed system concepts.
+
+- **FPGA-PROJECT** — https://github.com/xxFidxx/FPGA-PROJECT  
+  A VHDL-based FPGA project focused on digital logic and hardware design.
+
+- **DrWhite** — https://github.com/xxFidxx/DrWhite  
+  A JavaScript project centered on frontend and application logic development.
+
+- **SentinelGrid** — https://github.com/xxFidxx/SentinelGrid  
+  An industrial IoT and distributed systems platform built with Contiki-NG, Kafka, Spark, Akka, and MPI. It includes an edge sensor network with actuator locking, a streaming ingestion pipeline, Spark-based analytics, a replicated device registry, and parallel anomaly detection.
 
 ---
 
 ## Skills & Tools
 
-- Languages: Java, C, JavaScript, HTML, CSS  
-- Frameworks & Libraries: Akka, Jakarta EE (Servlets), Thymeleaf  
-- DevOps & Tools: Git, Docker, GitHub Actions
+- Languages: Java, C, JavaScript, HTML, CSS, VHDL, GSC  
+- Frameworks & Libraries: Akka, Jakarta EE (Servlets), Thymeleaf, Apache Spark, Apache Kafka, Contiki-NG  
+- DevOps & Tools: Git, Docker, GitHub Actions, MPI
 
 ---
 
