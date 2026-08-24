@@ -28,14 +28,6 @@ Currently a Master's Student in Computer Science at Politecnico di Milano.
 
 ---
 
-## Skills & Tools
-
-- Languages: Java, C, JavaScript, HTML, CSS, VHDL, GSC  
-- Frameworks & Libraries: Akka, Jakarta EE (Servlets), Thymeleaf, Apache Spark, Apache Kafka, Contiki-NG  
-- DevOps & Tools: Git, Docker, GitHub Actions, MPI
-
----
-
 ## How to reach me
 
 fidelguri4@gmail.com - personal email
