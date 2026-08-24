@@ -21,7 +21,7 @@ Currently a Master's Student in Computer Science at Politecnico di Milano.
   A VHDL-based FPGA project focused on digital logic and hardware design.
 
 - **DrWhite** — https://github.com/xxFidxx/DrWhite  
-  A JavaScript project centered on frontend and application logic development.
+  An android app developed to play a customized version of MrWhite game with friends
 
 - **IOT-DISTRIBUTED SYSTEM** — https://github.com/xxFidxx/SentinelGrid  
   An industrial IoT and distributed systems platform built with Contiki-NG, Kafka, Spark, Akka, and MPI. It includes an edge sensor network with actuator locking, a streaming ingestion pipeline, Spark-based analytics, a replicated device registry, and parallel anomaly detection.
