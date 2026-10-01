@@ -1,4 +1,4 @@
-# Hi, I'm xxFidxx 👋
+# Hi, I'm Fidel Guri
 
 Bachelor's Degree in Computer Science and Engineering at Politecnico di Milano.
 
