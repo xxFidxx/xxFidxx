@@ -8,6 +8,9 @@ Currently a Master's Student in Computer Science at Politecnico di Milano.
 
 ## Projects
 
+- **LLM-based conversational chatbot** - https://github.com/xxFidxx/NLP-project
+  Open-weight LLMs run locally with retrieval-augmented generation,tool calling and speech-to-text; model benchmarking.
+
 - **SINGLE-CORE SERVER LOAD TEST** — https://github.com/xxFidxx/Single-core-server-load-test
 A load-testing study of an Nginx, Node.js and PostgreSQL stack pinned to one CPU core, using k6 with realistic virtual users and p95/p99 latency targets. It measures capacity under a realistic workload and shows how in-app and Nginx caching raise the limit from 1,000 to 2,000 users up to about 3,000 on the same hardware.
 
