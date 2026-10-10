@@ -8,7 +8,7 @@ Currently a Master's Student in Computer Science at Politecnico di Milano.
 
 ## Projects
 
-- **LLM-BASED TRIVIA CHATBOT** - https://github.com/xxFidxx/NLP-project
+- **LLM-BASED TRIVIA CHATBOT** — https://github.com/xxFidxx/NLP-project
   Open-weight LLMs run locally with retrieval-augmented generation,tool calling and speech-to-text; model benchmarking.
 
 - **SINGLE-CORE SERVER LOAD TEST** — https://github.com/xxFidxx/Single-core-server-load-test
