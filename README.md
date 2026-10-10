@@ -25,10 +25,6 @@ A load-testing study of an Nginx, Node.js and PostgreSQL stack pinned to one CPU
 
 - **DrWhite** — https://github.com/xxFidxx/DrWhite  
   An android app developed to play a customized version of MrWhite game with friends
-
-- **IOT-DISTRIBUTED SYSTEM** — https://github.com/xxFidxx/SentinelGrid  
-  An industrial IoT and distributed systems platform built with Contiki-NG, Kafka, Spark, Akka, and MPI. It includes an edge sensor network with actuator locking, a streaming ingestion pipeline, Spark-based analytics, a replicated device registry, and parallel anomaly detection.
-
 ---
 
 ## How to reach me
